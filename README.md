@@ -36,10 +36,6 @@
 
 ## 🌟 Featured Project
 
-<a href="https://github.com/tiger440/company-valuation-saas">
-  <img align="right" width="350" src="https://github.com/tiger440/company-valuation-saas/raw/main/demo.gif" alt="company-valuation-saas demo" />
-</a>
-
 ### [company-valuation-saas](https://github.com/tiger440/company-valuation-saas)
 > A modern SaaS solution for company valuation, blending cutting-edge tech with robust financial logic.
 
