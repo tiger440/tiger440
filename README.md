@@ -7,7 +7,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQFMtPR1CTweZA/profile-displayphoto-shrink_800_800/B4EZQIqnc_GYAo-/0/1735312177463?e=1759968000&v=beta&t=GMKD8POv8FvbUO0Xgc1iiCRUCXnHxzyh1eR3vwoDv1E" alt="tiger440" width="160" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">Hi, I'm Noreddine Bekkouche 👋</h1>
+<h1 align="center">Hi, I'm Noreddine 👋</h1>
 
 <p align="center">
   <b>Web & Fullstack Developer | MMA Enthusiast | Chess & Fashion Fan</b>
