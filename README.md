@@ -3,10 +3,6 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQEeu5615SePlQ/profile-displaybackgroundimage-shrink_350_1400/B4EZkMqtPCGUAg-/0/1756854146640?e=1759968000&v=beta&t=v_5gDh9aPyNnjw2xnohPbVlejuOJCawnXSaNb6q1xZ8" alt="Profile Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQFMtPR1CTweZA/profile-displayphoto-shrink_800_800/B4EZQIqnc_GYAo-/0/1735312177463?e=1759968000&v=beta&t=GMKD8POv8FvbUO0Xgc1iiCRUCXnHxzyh1eR3vwoDv1E" alt="tiger440" width="160" style="border-radius: 50%;"/>
-</p>
-
 <h1 align="center">Hi, I'm Noreddine 👋</h1>
 
 <p align="center">
