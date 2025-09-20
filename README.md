@@ -3,10 +3,18 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQEeu5615SePlQ/profile-displaybackgroundimage-shrink_350_1400/B4EZkMqtPCGUAg-/0/1756854146640?e=1759968000&v=beta&t=v_5gDh9aPyNnjw2xnohPbVlejuOJCawnXSaNb6q1xZ8" alt="Profile Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQFMtPR1CTweZA/profile-displayphoto-shrink_800_800/B4EZQIqnc_GYAo-/0/1735312177463?e=1759968000&v=beta&t=GMKD8POv8FvbUO0Xgc1iiCRUCXnHxzyh1eR3vwoDv1E"
+    alt="tiger440"
+    width="160"
+    height="160"
+    style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 12px rgba(0,0,0,0.08);" />
+</p>
+
 <h1 align="center">Hi, I'm Noreddine 👋</h1>
 
 <p align="center">
-  <b>Web & Fullstack Developer | MMA Enthusiast | Chess & Fashion Fan</b>
+  <b>Fullstack Developer | MMA Enthusiast | Chess & Fashion Fan</b>
 </p>
 
 ---
@@ -32,12 +40,18 @@
 
 ## 🌟 Featured Project
 
-### [company-valuation-saas](https://github.com/tiger440/company-valuation-saas)
-> A modern SaaS solution for company valuation, blending cutting-edge tech with robust financial logic.
+<a href="https://github.com/tiger440/n8n-ready">
+  <!-- You can add a demo image or gif here if available -->
+  <!-- <img align="right" width="350" src="https://github.com/tiger440/n8n-ready/raw/main/demo.gif" alt="n8n-ready demo" /> -->
+</a>
 
-- Built with Node.js, React.js, and TypeScript
-- Focused on usability and real-world business needs
-- [Check it out!](https://github.com/tiger440/company-valuation-saas)
+### [n8n-ready](https://github.com/tiger440/n8n-ready)
+> Supercharge your automation workflows with this ready-to-use n8n project—plug, play, and automate!
+
+- Pre-configured workflows and nodes to get started quickly
+- Optimized for extensibility and real-world business automation
+- Built to help teams scale their automation effortlessly
+- [Explore the repo!](https://github.com/tiger440/n8n-ready)
 
 ---
 
@@ -57,7 +71,7 @@
 ## ⚡ Fun Facts
 
 - 🥋 I practice MMA (2 years and counting!)
-- ♟️ I’m a chess enthusiast — challenge me on chess.com he-huizheng (yes with the chinese flag) !
+- ♟️ I’m a chess enthusiast — challenge me on chess.com, he-huizheng (yes with the Chinese flag)!
 - 👗 I design fashion pieces in my spare time
 
 ---
