@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFgXEPN2WzolQ/profile-displaybackgroundimage-shrink_350_1400/B4EZlwYngmHgAY-/0/1758527131196?e=1761782400&v=beta&t=21y45EecN-ODqMPY5D1P-KqkCUJPcOpiCX2eGj220J0" alt="Profile Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFDB1E94oGL1g/profile-displaybackgroundimage-shrink_350_1400/B4EZmUHfK6KcAY-/0/1759126616767?e=1761782400&v=beta&t=tE50wWN57el6Dg29UgmcGjrBlMzyVBZWkYLPAL3I3Xc" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Noreddine 👋</h1>
