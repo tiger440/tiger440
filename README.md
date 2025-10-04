@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFDB1E94oGL1g/profile-displaybackgroundimage-shrink_350_1400/B4EZmUHfK6KcAY-/0/1759126616767?e=1761782400&v=beta&t=tE50wWN57el6Dg29UgmcGjrBlMzyVBZWkYLPAL3I3Xc" alt="Profile Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Noreddine 👋</h1>
 
 <p align="center">
