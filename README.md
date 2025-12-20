@@ -11,7 +11,7 @@
 - 🌍 Based in France
 - 💻 Fullstack developer specializing in **Node.js, React.js, and Typescript**
 - 🔭 Currently learning and mastering **Nest.js**
-- 🏆 Chess player on [chess.com](https://www.chess.com/) & MMA practitioner (2 years)
+- 🏆 Chess player on [chess.com](https://www.chess.com/) & Fighting Sports practitioner
 - 👟 Passionate about fashion design
 
 ---
