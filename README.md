@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Noreddine 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer | MMA Enthusiast | Chess & Fashion Fan</b>
+  <b>Fullstack Developer | Node.js | Nest.js | React.js | Next.js</b>
 </p>
 
 ---
