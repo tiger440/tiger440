@@ -42,19 +42,6 @@
 
 ---
 
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/noreddine-bekkouche/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.malt.fr/profile/noreddinebekkouche">
-    <img src="https://img.shields.io/badge/Malt-F2C463?style=for-the-badge&logo=Malt&logoColor=black" alt="Malt"/>
-  </a>
-</p>
-
----
-
 ## ⚡ Fun Facts
 
 - 🥋 I practice MMA (2 years and counting!)
