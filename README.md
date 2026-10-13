@@ -60,4 +60,4 @@ I design and ship LLM systems end to end, from document ingestion to production 
   <img src="assets/contact-light.svg" width="100%" alt="Let's build something grounded. Available for missions, Paris and remote. 10+ clients, 5.0 rating on Malt.">
 </picture>
 
-<sub>Off-duty — MMA · chess as [he-huizheng](https://www.chess.com/member/he-huizheng) · fashion design</sub>
+<sub>Off-duty — Mixed Martial Arts · chess as [he-huizheng](https://www.chess.com/member/he-huizheng) · fashion design</sub>
