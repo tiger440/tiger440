@@ -1,14 +1,63 @@
-<a href="https://github.com/tiger440"><img src="assets/hero.svg" width="100%" alt="OUTLIER — Noreddine Bekkouche, AI Engineer. Grounded, production-grade AI systems. Available for missions."></a>
-<img src="assets/profile.svg" width="100%" alt="I turn messy business data into AI systems that hold up in production. Senior backend roots, Python and TypeScript, design craft by default.">
-<img src="assets/capabilities.svg" width="100%" alt="What I build: RAG, LangChain, agents, MCP, fine-tuning, evals, OCR, document extraction.">
-<img src="assets/stack.svg" width="100%" alt="Stack: Python, FastAPI, Django, TypeScript, NestJS, Next.js, Postgres, pgvector, Docker, Prisma, XState.">
-<a href="https://github.com/tiger440/groundcite"><img src="assets/groundcite.svg" width="100%" alt="groundcite — grounded answers engine: every claim cites the exact character span of its source. Hybrid retrieval, ACL inside the index scan, evals per stage, Postgres only. In progress."></a>
-<img src="assets/contact.svg" width="100%" alt="Let's build. Missions in Paris and remote. 10+ clients, 5.0 Malt rating. Outlier — engineering and creative studio, Paris.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Noreddine Bekkouche — AI Engineer. Grounded retrieval, agents and MCP systems, built for production. Available for missions.">
+</picture>
 
-<p align="center">
-  <a href="https://github.com/tiger440/groundcite"><b>groundcite</b></a> &nbsp;·&nbsp;
-  <a href="https://tiger440.github.io/groundcite/"><b>groundcite docs</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/tiger440/n8n-ready"><b>n8n-ready</b></a>
-  <br>
-  <sub>Off-duty — Mixed Martial Arts · chess as <a href="https://www.chess.com/member/he-huizheng">he-huizheng</a> · fashion design</sub>
-</p>
+I design and ship LLM systems end to end, from document ingestion to production APIs. Senior backend roots in **Python** and **TypeScript**, so the AI part holds up in production rather than in a notebook. I run **Outlier**, an independent engineering & creative studio.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-capabilities-dark.svg">
+  <img src="assets/h-capabilities-light.svg" width="100%" alt="Capabilities">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
+  <img src="assets/capabilities-light.svg" width="100%" alt="RAG pipelines, agentic systems, MCP servers, document AI, evals and fine-tuning, enterprise integration.">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-system-dark.svg">
+  <img src="assets/h-system-light.svg" width="100%" alt="Selected system">
+</picture>
+
+<a href="https://github.com/tiger440/groundcite">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/groundcite-dark.svg">
+  <img src="assets/groundcite-light.svg" width="100%" alt="groundcite — retrieval funnel: ACL filter inside the index scan, dense and lexical retrieval, reciprocal rank fusion, rerank, span-level citation.">
+</picture>
+</a>
+
+| Component | Design choice |
+|---|---|
+| **Retrieval** | Dense (pgvector) and lexical (Postgres full-text), fused with reciprocal rank fusion, then reranked |
+| **Citations** | Every claim points at exact `(document, start, end)` character offsets, preserved through parsing and chunking |
+| **Permissions** | ACL filters applied inside the index scan, never as a post-filter — recall measured per scope |
+| **Evals** | Each stage of the funnel measured separately, paired bootstrap confidence intervals |
+| **Storage** | Postgres only. No managed vector service |
+
+**[Repository →](https://github.com/tiger440/groundcite)** &nbsp;&nbsp; **[ML companion docs →](https://tiger440.github.io/groundcite/)** &nbsp;&nbsp; <sub>Also: [n8n-ready](https://github.com/tiger440/n8n-ready), a ready-to-use automation base</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg">
+  <img src="assets/h-stack-light.svg" width="100%" alt="Stack">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Models and AI: Claude, MCP, LangChain, pgvector, OCR. Backend: Python, FastAPI, Django, TypeScript, NestJS. Data and delivery: PostgreSQL, Prisma, Docker, Next.js, XState.">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+  <img src="assets/contact-light.svg" width="100%" alt="Let's build something grounded. Available for missions, Paris and remote. 10+ clients, 5.0 rating on Malt.">
+</picture>
+
+<sub>Off-duty — MMA · chess as [he-huizheng](https://www.chess.com/member/he-huizheng) · fashion design</sub>
