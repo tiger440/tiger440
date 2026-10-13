@@ -10,5 +10,5 @@
   <a href="https://tiger440.github.io/groundcite/"><b>groundcite docs</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/tiger440/n8n-ready"><b>n8n-ready</b></a>
   <br>
-  <sub>Off-duty — MMA · chess as <a href="https://www.chess.com/member/he-huizheng">he-huizheng</a> · fashion design</sub>
+  <sub>Off-duty — Mixed Martial Arts · chess as <a href="https://www.chess.com/member/he-huizheng">he-huizheng</a> · fashion design</sub>
 </p>
