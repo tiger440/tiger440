@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" width="100%" alt="Noreddine Bekkouche — AI Engineer. Grounded retrieval, agents and MCP systems, built for production. Available for missions.">
 </picture>
 
-I design and ship LLM systems end to end, from document ingestion to production APIs. Senior backend roots in **Python** and **TypeScript**, so the AI part holds up in production rather than in a notebook. I run **Outlier**, an independent engineering & creative studio.
+I design and ship LLM systems end to end, from document ingestion to production APIs. Backend roots in **Python** and **TypeScript**, so the AI part holds up in production rather than in a notebook. I run **Outlier**, an independent engineering & creative studio.
 
 <br>
 
