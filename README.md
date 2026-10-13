@@ -1,55 +1,14 @@
-<h1 align="center">Hi, I'm Noreddine 👋</h1>
+<a href="https://github.com/tiger440"><img src="assets/hero.svg" width="100%" alt="OUTLIER — Noreddine Bekkouche, AI Engineer. Grounded, production-grade AI systems. Available for missions."></a>
+<img src="assets/profile.svg" width="100%" alt="I turn messy business data into AI systems that hold up in production. Senior backend roots, Python and TypeScript, design craft by default.">
+<img src="assets/capabilities.svg" width="100%" alt="What I build: RAG, LangChain, agents, MCP, fine-tuning, evals, OCR, document extraction.">
+<img src="assets/stack.svg" width="100%" alt="Stack: Python, FastAPI, Django, TypeScript, NestJS, Next.js, Postgres, pgvector, Docker, Prisma, XState.">
+<a href="https://github.com/tiger440/groundcite"><img src="assets/groundcite.svg" width="100%" alt="groundcite — grounded answers engine: every claim cites the exact character span of its source. Hybrid retrieval, ACL inside the index scan, evals per stage, Postgres only. In progress."></a>
+<img src="assets/contact.svg" width="100%" alt="Let's build. Missions in Paris and remote. 10+ clients, 5.0 Malt rating. Outlier — engineering and creative studio, Paris.">
 
 <p align="center">
-  <b>Fullstack Developer | Nest.js | Next.js</b>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌍 Based in France
-- 💻 Fullstack developer specializing in **Node.js, React.js, and Typescript**
-- 🔭 Currently learning and mastering **Nest.js**
-- 🏆 Chess player on [chess.com](https://www.chess.com/) & Fighting Sports practitioner
-- 👟 Passionate about fashion design
-
----
-
-## 🛠️ Tech Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
----
-
-## 🌟 Featured Project
-
-<a href="https://github.com/tiger440/n8n-ready">
-  <!-- You can add a demo image or gif here if available -->
-  <!-- <img align="right" width="350" src="https://github.com/tiger440/n8n-ready/raw/main/demo.gif" alt="n8n-ready demo" /> -->
-</a>
-
-### [n8n-ready](https://github.com/tiger440/n8n-ready)
-> Supercharge your automation workflows with this ready-to-use n8n project—plug, play, and automate!
-
-- Pre-configured workflows and nodes to get started quickly
-- Optimized for extensibility and real-world business automation
-- Built to help teams scale their automation effortlessly
-- [Explore the repo!](https://github.com/tiger440/n8n-ready)
-
----
-
-## ⚡ Fun Facts
-
-- 🥋 I practice MMA (2 years and counting!)
-- ♟️ I’m a chess enthusiast — challenge me on chess.com, he-huizheng (yes with the Chinese flag)!
-- 👗 I design fashion pieces in my spare time
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiger440&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://github.com/tiger440/groundcite"><b>groundcite</b></a> &nbsp;·&nbsp;
+  <a href="https://tiger440.github.io/groundcite/"><b>groundcite docs</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/tiger440/n8n-ready"><b>n8n-ready</b></a>
+  <br>
+  <sub>Off-duty — MMA · chess as <a href="https://www.chess.com/member/he-huizheng">he-huizheng</a> · fashion design</sub>
 </p>
